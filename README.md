@@ -1,3 +1,6 @@
-# primeiroB_3t
+# Terceiro Trimestre
+##Identificação
+Gabriella Picciani Fernandes n12 1B
 
-Gabriella Picciani Fernandes n12
+##Conteudo
+HTML,CSS e javaScript
